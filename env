@@ -1,6 +1,8 @@
-SPONSOR_KEY=d
-VICTIM_KEY=d
+SPONSOR_KEY= #68f
+VICTIM_KEY= #BB6
+
+
+PROVIDER_URL=https://eth-sepolia.g.alchemy.com/v2/y6w9diB9MYtUcOHGLaEpOAdh9sbfSG01
 
 FLASHBOTS_URL=https://relay-sepolia.flashbots.net
-TOKEN_ADDRESS=0x94f1e0a6e02092bf33efffee9bc4b9b70c3c9ffd
-PROVIDER_LINK=https://sepolia.infura.io/v3/13d9b7d0ef994b09840355a7ed0e406a
+TOKEN_ADDRESS=0x94f1e0a6E02092Bf33EfFFeE9bC4b9B70c3C9ffD
